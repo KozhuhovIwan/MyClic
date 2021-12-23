@@ -7,6 +7,9 @@ public class Main {
         System.out.println("Hello World?");
         System.out.println(2+2);
         System.out.println(2 + "2");
+        int i=3;
+        int r=5;
+        System.out.println(i*r);
 
     }
 }
